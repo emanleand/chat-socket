@@ -10,4 +10,6 @@ Require NodeJS v12+. Perform the following steps
 - Clone the repo
 - Install npm dependencies: npm install
 
-<img align="right" width="100" src="./images/chat.png">
+<p align="center">
+    <img align="right" width="200" src="./images/chat.png">
+</p>
